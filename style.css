@@ -355,6 +355,7 @@ section{
     color: var(--hover-color);
     font-weight: 700;
     font-size: var(--norma-font);
+    text-align: center;
 }
 .about-content h3{
     font-weight: 600;
@@ -395,6 +396,9 @@ section{
 .info-about3{
     left: 61%;
     top: 70%;
+}
+.about-content .btn-box .btn{
+    left: 165%;
 }
 .img-about span{
    color: var(--hover-color);
